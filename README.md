@@ -38,7 +38,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sumetee Chomthawat from THAILAND <br>
+<br>- 🔭 I’m working as Full-Stack Developer
+<br>- 👀 I’m interested in Hardware and Software<br>
+<br>- 🌱 I’m currently Student<br>
+<br>- 💞️ I’m looking to collaborate on future<br>
+<br>- 📫 How to reach me Facebook : Sumetee Chomthawat<br></p>
 
 ###
 
