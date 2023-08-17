@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">I'm Sumetee Chomthawat from THAILAND <br>
-<br>- 🔭 I’m working as Full-Stack Developer
+<br>- 🔭 I’m working as Full-Stack Developer<br>
 <br>- 👀 I’m interested in Hardware and Software<br>
 <br>- 🌱 I’m currently Student<br>
 <br>- 💞️ I’m looking to collaborate on future<br>
